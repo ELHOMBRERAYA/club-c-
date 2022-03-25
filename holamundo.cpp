@@ -5,7 +5,7 @@ using namspace std;
 int main (){
 
 
-cout<<"hola mundo";
+cout<<"hola raza";
 
     return 0;
 }
